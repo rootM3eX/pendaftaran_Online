@@ -2,7 +2,7 @@
 
 with laravel and bootstraps
 
-Live web
+Live demo web
 <br>
 <b>https://testerlavarel.000webhostapp.com/
 
