@@ -4,7 +4,6 @@ with laravel and bootstraps
 
 Live demo web
 <br>
-<b>https://testerlavarel.000webhostapp.com/
 
 <b>Open donate for COVID 19<br>
   rek: BCA 5211363364
